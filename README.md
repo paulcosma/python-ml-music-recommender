@@ -11,12 +11,15 @@ Steps:
 7. Evaluate and Improve
 
 Libraries
-- Numpy
-- Pandas
-- MatPlotLib
-- Scikit-Learn
+- Numpy - provides multi dimensional array
+- Pandas - data analysis library that provides data-frames (a two dimensional data structure similar to excel spreadsheet, we have rows and columns)
+- MatPlotLib - two dimensional plots library for creating graphs and plots
+- Scikit-Learn - most popular ML library
 
 # Anaconda
 - Download and install [Anaconda]([.gitignore](..%2Fpython%2F.gitignore))
+- or install [JupyterHub](https://z2jh.jupyter.org/en/latest/jupyterhub/installation.html) on Kubernetes
 - Open Jupyter Notebook
-- 
+http://localhost:8888/tree
+- Go to a directory click New and create a New Python3 Notebook (a new .ipynb file will be created)
+
