@@ -1,5 +1,5 @@
 # python-ml
-Cat or Dog
+Music Recommender using DecisionTreeClassifier
 
 Steps:
 1. Import the Data
@@ -22,4 +22,3 @@ Libraries
 - Open Jupyter Notebook
 http://localhost:8888/tree
 - Go to a directory click New and create a New Python3 Notebook (a new .ipynb file will be created)
-
